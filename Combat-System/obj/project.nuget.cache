@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O1u4gctw2fv+inkaiDbB9fiuNME1rccdtrxvj21cZiT6VelyQiL2wvd1+rlcJv5bsgHpPqx0CapLZmMM+wnWkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Netixx\\OneDrive\\Programming\\C#\\Learning\\Combat-System\\Combat-System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Netixx\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Netixx\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

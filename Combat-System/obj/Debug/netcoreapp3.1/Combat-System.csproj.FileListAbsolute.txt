@@ -1,0 +1,13 @@
+C:\Users\Netixx\OneDrive\Programming\C#\Learning\Combat-System\bin\Debug\netcoreapp3.1\Combat-System.exe
+C:\Users\Netixx\OneDrive\Programming\C#\Learning\Combat-System\bin\Debug\netcoreapp3.1\Combat-System.deps.json
+C:\Users\Netixx\OneDrive\Programming\C#\Learning\Combat-System\bin\Debug\netcoreapp3.1\Combat-System.runtimeconfig.json
+C:\Users\Netixx\OneDrive\Programming\C#\Learning\Combat-System\bin\Debug\netcoreapp3.1\Combat-System.runtimeconfig.dev.json
+C:\Users\Netixx\OneDrive\Programming\C#\Learning\Combat-System\bin\Debug\netcoreapp3.1\Combat-System.dll
+C:\Users\Netixx\OneDrive\Programming\C#\Learning\Combat-System\bin\Debug\netcoreapp3.1\Combat-System.pdb
+C:\Users\Netixx\OneDrive\Programming\C#\Learning\Combat-System\obj\Debug\netcoreapp3.1\Combat-System.csprojAssemblyReference.cache
+C:\Users\Netixx\OneDrive\Programming\C#\Learning\Combat-System\obj\Debug\netcoreapp3.1\Combat-System.AssemblyInfoInputs.cache
+C:\Users\Netixx\OneDrive\Programming\C#\Learning\Combat-System\obj\Debug\netcoreapp3.1\Combat-System.AssemblyInfo.cs
+C:\Users\Netixx\OneDrive\Programming\C#\Learning\Combat-System\obj\Debug\netcoreapp3.1\Combat-System.csproj.CoreCompileInputs.cache
+C:\Users\Netixx\OneDrive\Programming\C#\Learning\Combat-System\obj\Debug\netcoreapp3.1\Combat-System.dll
+C:\Users\Netixx\OneDrive\Programming\C#\Learning\Combat-System\obj\Debug\netcoreapp3.1\Combat-System.pdb
+C:\Users\Netixx\OneDrive\Programming\C#\Learning\Combat-System\obj\Debug\netcoreapp3.1\Combat-System.genruntimeconfig.cache
